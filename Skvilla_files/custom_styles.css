@@ -324,7 +324,7 @@ body {
 
 .popup {
     height: 80vh;
-    width: 90vw;
+    width: 80vw;
     visibility: hidden;
     position: fixed;
     background-color: #1c2f42;
