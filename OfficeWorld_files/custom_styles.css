@@ -70,7 +70,7 @@ body {
 .header {
     position: fixed;
     top: 0;
-    background-color: #0091d5;
+    background-color: #182659;
     width: 100vw;
     height: 100px;
     z-index: 999;
@@ -112,7 +112,7 @@ body {
     align-items: center;
 }
 
-.red_but {
+.blue_but {
     color: #ffffff;
     background-color: #2971f5;
     -webkit-border-radius: 30px;
@@ -324,10 +324,10 @@ body {
 
 .popup {
     height: 80vh;
-    width: 95vw;
+    width: 90vw;
     visibility: hidden;
     position: fixed;
-    background-color: #444444;
+    background-color: #1c2f42;
     align-self: center;
     top: calc(100px + 5vh);
     border-radius: 5px;
@@ -513,7 +513,7 @@ body {
     display: flex;
     width: 100%;
     overflow: hidden;
-    background-color: #313131;
+    background-color: #1c2f42 ;
 }
 
 .contacts_container {
@@ -570,7 +570,7 @@ body {
     align-items: center;
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #313131;
+    background-color: #1c2f42;
     border-top: 1px solid;
     border-top-color: #292929;
     height: 80px;
@@ -779,7 +779,7 @@ body {
         line-height: 1.4;
     }
 
-    .red_but {
+    .blue_but {
         padding-left: 30px;
         padding-right: 30px;
         white-space: normal;
